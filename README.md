@@ -17,6 +17,8 @@ win32api.Sleep() uses miliseconds and time.sleep() uses seconds;
 
 Don't interact with other windows or programs while running the script..just leave it like that;
 
+If GO Bot doesn't want to accept given coordinates, try changing the separator from '.' to ',';
+
 
 # End note:
 If this gets welcomed by the community I could change it to run with both v0.0.4 and v0.0.5. Make it run with console arguments, run in background. Other suggestions are welcomed too
