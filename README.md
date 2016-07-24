@@ -6,7 +6,7 @@ It is based on GO Bot v0.0.4 [BETA]
 
 # Requirements:
 Python 2.7
-PyWin32 - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win32-py2.7.exe/download
+PyWin32 - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win32-py2.7.exe/download  
 GO Bot v0.0.4 [BETA]
 
 # Usage:
@@ -17,4 +17,6 @@ win32api.Sleep() uses miliseconds and time.sleep() uses seconds;
 
 Don't interact with other windows or programs while running the script..just leave it like that;
 
+
+# End note:
 If this gets welcomed by the community I could change it to run with both v0.0.4 and v0.0.5. Make it run with console arguments, run in background. Other suggestions are welcomed too
