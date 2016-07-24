@@ -10,7 +10,7 @@ PyWin32 - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pyw
 GO Bot v0.0.4 [BETA]
 
 # Usage:
-Open the script and change the path to your 'GO Bot.exe' (shell.Run() command) file so script can run. You can leave it over night or afternoon and it will automatically go through given coordinates. Coordinates are given in a list of two-sized tuple in a variable called 'coordinates'. Variable 'duration' - how much will bot farm given location. Variable 'rest' - how much whill script wait until it bot proceeds so you don't get softbanned.
+Open the script and change the path to your 'GO Bot.exe' (shell.Run() command) file so script can run. You can leave it over night or afternoon and it will automatically go through given coordinates. Coordinates are given in a list of two-sized tuple in a variable called 'coordinates'. Variable 'duration' - how much will bot farm given location. Variable 'rest' - how much will script wait until bot proceeds so you don't get softbanned.
 
 # Important:
 win32api.Sleep() uses miliseconds and time.sleep() uses seconds;  
